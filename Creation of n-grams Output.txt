@@ -1,0 +1,58 @@
+Word 4 -grams:
+('Python', 'provides', 'powerful', 'tools')
+('provides', 'powerful', 'tools', 'for')
+('powerful', 'tools', 'for', 'language')
+('tools', 'for', 'language', 'processing')
+
+Character 4 -grams:
+Pyth
+ytho
+thon
+hon
+on p
+n pr
+ pro
+prov
+rovi
+ovid
+vide
+ides
+des
+es p
+s po
+ pow
+powe
+ower
+werf
+erfu
+rful
+ful
+ul t
+l to
+ too
+tool
+ools
+ols
+ls f
+s fo
+ for
+for
+or l
+r la
+ lan
+lang
+angu
+ngua
+guag
+uage
+age
+ge p
+e pr
+ pro
+proc
+roce
+oces
+cess
+essi
+ssin
+sing
